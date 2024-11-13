@@ -23,7 +23,7 @@ SPA Laravel E-commerce project. E-commerce platform with REST Api, Multiple Auth
 Clone the project:
 
 ```bash
-  git clone https://github.com/DevAmirul/Laravel-Vue-SPA-Ecommerce.git
+  git clone https://github.com/Perseus-rescuer/Laravel-Vue-SPA-Ecommerce.git
 ```
 
 Go to the project frontend directory:
